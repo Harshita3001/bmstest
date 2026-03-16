@@ -1,1 +1,7 @@
 1st commit
+hi
+hello
+bye
+welcome
+gn
+gm
